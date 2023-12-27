@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" width="102" height="102" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="white" stroke-width="0"/>
+  <g stroke="black" stroke-width="1" transform="translate(1,1) scale(1)">
+    <g fill="none">
+      <polyline points="50,0 0,25 0,75"/>
+      <polyline points="66.67,8.34 16.67,33.33 16.67,83.33"/>
+      <polyline points="83.33,16.67 33.33,41.67 33.33,91.67"/>
+      <line x1="50" y1="50" x2="50" y2="100"/>
+      <polyline points="16.67,16.67 66.67,41.67 66.67,91.67"/>
+      <polyline points="33.33,8.35 83.33,33.33 83.33,83.33"/>
+      <polyline points="50,0 100,25 100,75" />
+
+      <polyline points="0,25 50,50 100,25"/>
+      <polyline points="0,41.67 50,66.67 100,41.67"/>
+      <polyline points="0,58.33 50,83.33 100,58.33"/>
+      <polyline points="0,75 50,100 100,75"/>
+    </g>
+    <g font-familly="Verdana, sans-serif" text-anchor="middle" dominant-baseline="middle">
+      <g font-size="10px">
+        <text transform="translate(50, 26)">C</text>
+        <text transform="translate(25,62.5) skewY(30)">A</text>
+        <text transform="translate(75, 62.5) skewY(-30)">B</text>
+      </g>
+      <g font-size="10px">
+        <text transform="translate(8.33,71.33) skewY(30)">1</text>
+        <text transform="translate(8.33,38) skewY(30)">2</text>
+        <text transform="translate(41.67,89) skewY(30)">3</text>
+      </g>
+    </g>
+  </g>
+</svg>
